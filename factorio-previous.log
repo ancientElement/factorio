@@ -1,0 +1,88 @@
+   0.001 2024-08-16 21:14:01; Factorio 1.1.109 (build 62320, win64, steam)
+   0.001 Operating system: Windows 10 (build 19044) 
+   0.000 Initializing Steam API.
+   0.001 Program arguments: "C:\SteamLibrary\steamapps\common\Factorio\bin\x64\Factorio.exe" "--wait-to-close" "16300" 
+   0.001 Config path: C:/Users/bill/AppData/Roaming/Factorio/config/config.ini
+   0.001 Read data path: C:/SteamLibrary/steamapps/common/Factorio/data
+   0.001 Write data path: C:/Users/bill/AppData/Roaming/Factorio [609491/976401MB]
+   0.001 Binaries path: C:/SteamLibrary/steamapps/common/Factorio/bin
+   0.015 System info: [CPU: Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz, 16 cores, RAM: 12818/32473 MB, page: 21720/38397 MB, virtual: 4344/134217727 MB, extended virtual: 0 MB]
+   0.075 Memory info:
+   0.075  [0]: SK Hynix HMAA4GU6AJR8N-XN 32768 MB 2933 MHz 1.2 v
+   0.076 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: zh-CN]
+   0.143 Video driver: windows
+   0.143 Available displays: 1
+   0.143  [0]: \\.\DISPLAY1 - NVIDIA GeForce RTX 2060 {0x05, [0,0], 3840x2160, 32bit, 60Hz}
+   0.202 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: 0; d3dcompiler_47.dll
+   0.568 Initialised Direct3D[0]: NVIDIA GeForce RTX 2060; id: 10de-1f08; driver: nvldumdx.dll 32.0.15.5612
+   0.568   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
+   0.568   [Local Video Memory] Budget: 5187MB, CurrentUsage: 22MB, Reservation: 0/2721MB
+   0.568   [Non-Local Vid.Mem.] Budget: 15468MB, CurrentUsage: 6MB, Reservation: 0/7862MB
+   0.568   Tiled resources: Tier 2
+   0.568   Unified Memory Architecture: No
+   0.568   BGR 565 Supported: Yes
+   0.568   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.568 Graphics settings preset: very-high
+   0.568   Dedicated video memory size 5955 MB
+   0.603 Desktop composition is active.
+   0.603 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
+   0.603                   [Max threads (load/render): 32/16] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:69,C:0,S:100]
+   0.644 [Audio] Backend:SDL(default); Driver:wasapi, Device:Default device, Depth:16, Channels:2, Frequency:44100
+   0.903 Error ModManager.cpp:999: Mod package read error. File C:/Users/bill/AppData/Roaming/Factorio/mods/Factorio-Mods-master.zip/info.json not found
+   0.911 Loading mod settings chinese 1.7.0 (settings.lua)
+   0.911 Loading mod settings RateCalculator 3.2.6 (settings.lua)
+   0.913 Loading mod core 0.0.0 (data.lua)
+   0.953 Loading mod base 1.1.109 (data.lua)
+   1.127 Loading mod chinese 1.7.0 (data.lua)
+   1.134 Loading mod flib 0.14.2 (data.lua)
+   1.142 Loading mod RateCalculator 3.2.6 (data.lua)
+   1.150 Loading mod RecipeBook 3.5.10 (data.lua)
+   1.161 Loading mod base 1.1.109 (data-updates.lua)
+   1.168 Loading mod chinese 1.7.0 (data-updates.lua)
+   1.176 Loading mod chinese 1.7.0 (data-final-fixes.lua)
+   1.419 Checksum for core: 607699937
+   1.419 Checksum of base: 1054619811
+   1.419 Checksum of chinese: 3933399186
+   1.419 Checksum of flib: 808631097
+   1.419 Checksum of RateCalculator: 1583889360
+   1.419 Checksum of RecipeBook: 705957041
+   1.624 Prototype list checksum: 2440035845
+   1.669 Loading sounds...
+   2.000 Info PlayerData.cpp:78: Local player-data.json unavailable
+   2.000 Info PlayerData.cpp:81: Cloud player-data.json available, timestamp 1723814040
+   2.126 Crop bitmaps.
+   2.145 Parallel Sprite Loader initialized (threads: 0)
+   2.257 Initial atlas bitmap size is 16384
+   2.288 Created atlas bitmap 16384x16376 [none]
+   2.291 Created atlas bitmap 16384x13040 [none]
+   2.291 Created atlas bitmap 8192x4188 [decal]
+   2.292 Created atlas bitmap 16384x5568 [low-object, linear-minification]
+   2.292 Created atlas bitmap 8192x4464 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.293 Created atlas bitmap 16384x6064 [terrain, mipmap, linear-minification, linear-mip-level]
+   2.293 Created atlas bitmap 4096x3216 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   2.293 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
+   2.293 Created atlas bitmap 4096x3104 [mipmap]
+   2.294 Created atlas bitmap 8192x2528 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.294 Created atlas bitmap 8192x1496 [alpha-mask]
+   2.297 Created atlas bitmap 16384x14772 [shadow, linear-magnification, alpha-mask]
+   2.297 Created atlas bitmap 8192x2352 [shadow, mipmap, linear-magnification, alpha-mask]
+   2.297 Created atlas bitmap 2048x240 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   2.301 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   3.634 Parallel Sprite Loader initialized (threads: 15)
+  11.419 Sprites loaded
+  11.431 Generated mipmaps (4) for atlas [3] of size 16384x5568   
+  11.443 Generated mipmaps (3) for atlas [4] of size 8192x4464   
+  11.454 Generated mipmaps (3) for atlas [5] of size 16384x6064   
+  11.487 Generated mipmaps (3) for atlas [6] of size 4096x3216   
+  11.498 Generated mipmaps (3) for atlas [7] of size 4096x1856   
+  11.566 Generated mipmaps (3) for atlas [8] of size 4096x3104   
+  11.588 Generated mipmaps (5) for atlas [9] of size 8192x2528   
+  11.599 Generated mipmaps (3) for atlas [12] of size 8192x2352   
+  11.614 Custom mipmaps uploaded (1966)
+  11.623 Custom inputs active: 9
+  11.872 Factorio initialised
+  11.875 Steam Storage Quota: 23824/23841
+  26.082 Info AppManager.cpp:1426: Restarting Factorio
+  26.200 Quitting: user-quit.
+  26.846 Steam API shutdown.
+  26.851 Goodbye

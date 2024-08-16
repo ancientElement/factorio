@@ -1,0 +1,107 @@
+   0.001 2024-08-16 21:14:28; Factorio 1.1.109 (build 62320, win64, steam)
+   0.001 Operating system: Windows 10 (build 19044) 
+   0.000 Initializing Steam API.
+   0.001 Program arguments: "C:\SteamLibrary\steamapps\common\Factorio\bin\x64\Factorio.exe" "--wait-to-close" "15376" "--load-game" "C:/Users/bill/AppData/Roaming/Factorio/saves/start.zip" 
+   0.001 Config path: C:/Users/bill/AppData/Roaming/Factorio/config/config.ini
+   0.001 Read data path: C:/SteamLibrary/steamapps/common/Factorio/data
+   0.001 Write data path: C:/Users/bill/AppData/Roaming/Factorio [609487/976401MB]
+   0.002 Binaries path: C:/SteamLibrary/steamapps/common/Factorio/bin
+   0.012 System info: [CPU: Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz, 16 cores, RAM: 12756/32473 MB, page: 21664/38397 MB, virtual: 4344/134217727 MB, extended virtual: 0 MB]
+   0.068 Memory info:
+   0.068  [0]: SK Hynix HMAA4GU6AJR8N-XN 32768 MB 2933 MHz 1.2 v
+   0.069 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: zh-CN]
+   0.136 Video driver: windows
+   0.136 Available displays: 1
+   0.136  [0]: \\.\DISPLAY1 - NVIDIA GeForce RTX 2060 {0x05, [0,0], 3840x2160, 32bit, 60Hz}
+   0.182 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: 0; d3dcompiler_47.dll
+   0.534 Initialised Direct3D[0]: NVIDIA GeForce RTX 2060; id: 10de-1f08; driver: nvldumdx.dll 32.0.15.5612
+   0.534   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
+   0.534   [Local Video Memory] Budget: 5187MB, CurrentUsage: 22MB, Reservation: 0/2721MB
+   0.534   [Non-Local Vid.Mem.] Budget: 15468MB, CurrentUsage: 6MB, Reservation: 0/7862MB
+   0.534   Tiled resources: Tier 2
+   0.534   Unified Memory Architecture: No
+   0.534   BGR 565 Supported: Yes
+   0.534   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.534 Graphics settings preset: very-high
+   0.534   Dedicated video memory size 5955 MB
+   0.568 Desktop composition is active.
+   0.568 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
+   0.568                   [Max threads (load/render): 32/16] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:69,C:0,S:100]
+   0.608 [Audio] Backend:SDL(default); Driver:wasapi, Device:Default device, Depth:16, Channels:2, Frequency:44100
+   0.863 Error ModManager.cpp:999: Mod package read error. File C:/Users/bill/AppData/Roaming/Factorio/mods/Factorio-Mods-master.zip/info.json not found
+   0.875 Loading mod settings chinese 1.7.0 (settings.lua)
+   0.875 Loading mod settings RateCalculator 3.2.6 (settings.lua)
+   0.877 Loading mod core 0.0.0 (data.lua)
+   0.920 Loading mod base 1.1.109 (data.lua)
+   1.092 Loading mod chinese 1.7.0 (data.lua)
+   1.100 Loading mod flib 0.14.2 (data.lua)
+   1.108 Loading mod RateCalculator 3.2.6 (data.lua)
+   1.117 Loading mod RecipeBook 3.5.10 (data.lua)
+   1.128 Loading mod base 1.1.109 (data-updates.lua)
+   1.136 Loading mod chinese 1.7.0 (data-updates.lua)
+   1.145 Loading mod chinese 1.7.0 (data-final-fixes.lua)
+   1.376 Checksum for core: 607699937
+   1.376 Checksum of base: 1054619811
+   1.376 Checksum of chinese: 3933399186
+   1.376 Checksum of flib: 808631097
+   1.376 Checksum of RateCalculator: 1583889360
+   1.376 Checksum of RecipeBook: 705957041
+   1.578 Prototype list checksum: 2440035845
+   1.623 Loading sounds...
+   1.968 Info PlayerData.cpp:78: Local player-data.json unavailable
+   1.968 Info PlayerData.cpp:81: Cloud player-data.json available, timestamp 1723814067
+   2.101 Initial atlas bitmap size is 16384
+   2.133 Created atlas bitmap 16384x16376 [none]
+   2.136 Created atlas bitmap 16384x13040 [none]
+   2.137 Created atlas bitmap 8192x4188 [decal]
+   2.137 Created atlas bitmap 16384x5568 [low-object, linear-minification]
+   2.138 Created atlas bitmap 8192x4464 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.138 Created atlas bitmap 16384x6064 [terrain, mipmap, linear-minification, linear-mip-level]
+   2.139 Created atlas bitmap 4096x3216 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   2.139 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
+   2.139 Created atlas bitmap 4096x3104 [mipmap]
+   2.139 Created atlas bitmap 8192x2528 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.140 Created atlas bitmap 8192x1496 [alpha-mask]
+   2.143 Created atlas bitmap 16384x14772 [shadow, linear-magnification, alpha-mask]
+   2.143 Created atlas bitmap 8192x2352 [shadow, mipmap, linear-magnification, alpha-mask]
+   2.143 Created atlas bitmap 2048x240 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   2.147 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   3.483 Parallel Sprite Loader initialized (threads: 15)
+  11.302 Sprites loaded
+  11.314 Generated mipmaps (4) for atlas [3] of size 16384x5568   
+  11.325 Generated mipmaps (3) for atlas [4] of size 8192x4464   
+  11.336 Generated mipmaps (3) for atlas [5] of size 16384x6064   
+  11.347 Generated mipmaps (3) for atlas [6] of size 4096x3216   
+  11.369 Generated mipmaps (3) for atlas [7] of size 4096x1856   
+  11.408 Generated mipmaps (3) for atlas [8] of size 4096x3104   
+  11.430 Generated mipmaps (5) for atlas [9] of size 8192x2528   
+  11.441 Generated mipmaps (3) for atlas [12] of size 8192x2352   
+  11.456 Custom mipmaps uploaded (1966)
+  11.464 Custom inputs active: 9
+  11.728 Factorio initialised
+  11.732 Steam Storage Quota: 23824/23841
+  11.733 Loading map C:/Users/bill/AppData/Roaming/Factorio/saves/start.zip: 4025689 bytes.
+  11.833 Loading level.dat: 8215991 bytes.
+  11.835 Info Scenario.cpp:204: Map version 1.1.109-0
+  12.025 Loading script.dat: 26970 bytes.
+  12.031 Checksum for script C:/Users/bill/AppData/Roaming/Factorio/temp/currently-playing/control.lua: 3702463597
+  12.031 Checksum for script __chinese__/control.lua: 220725026
+  12.037 Checksum for script __RateCalculator__/control.lua: 115502744
+  12.049 Checksum for script __RecipeBook__/control.lua: 1421767749
+  19.032 Info AppManagerStates.cpp:2007: Saving finished
+ 195.244 Info AppManager.cpp:327: Saving to _autosave3 (blocking).
+ 195.773 Info AppManagerStates.cpp:2007: Saving finished
+ 495.757 Info AppManager.cpp:327: Saving to _autosave1 (blocking).
+ 496.307 Info AppManagerStates.cpp:2007: Saving finished
+ 796.306 Info AppManager.cpp:327: Saving to _autosave2 (blocking).
+ 796.852 Info AppManagerStates.cpp:2007: Saving finished
+1096.839 Info AppManager.cpp:327: Saving to _autosave3 (blocking).
+1097.369 Info AppManagerStates.cpp:2007: Saving finished
+1397.357 Info AppManager.cpp:327: Saving to _autosave1 (blocking).
+1397.883 Info AppManagerStates.cpp:2007: Saving finished
+1701.207 Info AppManager.cpp:327: Saving to _autosave2 (blocking).
+1701.755 Info AppManagerStates.cpp:2007: Saving finished
+1799.472 Info AppManagerStates.cpp:2007: Saving finished
+1802.091 Quitting: user-quit.
+1802.397 Steam API shutdown.
+1802.402 Goodbye
